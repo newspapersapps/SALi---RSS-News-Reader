@@ -37,7 +37,7 @@
         <provider
             android:name=".provider.FeedDataContentProvider"
             android:authorities="sali.rss.news.feed.reader.android.app.provider.FeedData"
-            android:exported="true"
+            android:exported="false"
             android:writePermission="sali.rss.news.feed.reader.android.app.provider.WRITE_PERMISSION"/>
 
         <activity
