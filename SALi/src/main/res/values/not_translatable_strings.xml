@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_us_copyright" translatable="false"></string>
+    <string name="about_us_content" translatable="false"><![CDATA[
+        SALi News Reader is based on Flym news reader
+    ]]></string>
+
+    <string-array name="pager_transformer_types" translatable="false">
+        <item>FLOW</item>
+        <item>DEPTH</item>
+        <item>ZOOM</item>
+        <item>SLIDE_OVER</item>
+        <item>NONE</item>
+    </string-array>
+
+    <string-array name="ads_types" translatable="false">
+        <item>Banner (on screen bottom)</item>
+        <item>Full screen (rarely shown)</item>
+    </string-array>
+    <string-array name="ads_types_keys" translatable="false">
+        <item>banner</item>
+        <item>interstitial</item>
+    </string-array>
+
+    <string-array name="settings_interval_values" translatable="false">
+        <item>60000</item>
+        <item>300000</item>
+        <item>900000</item>
+        <item>1800000</item>
+        <item>3600000</item>
+        <item>7200000</item>
+        <item>21600000</item>
+        <item>43200000</item>
+        <item>86400000</item>
+    </string-array>
+    <string-array name="settings_keep_time_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>7</item>
+        <item>14</item>
+        <item>30</item>
+        <item>61</item>
+        <item>91</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="settings_font_size_values" translatable="false">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="settings_preload_image_modes_values" translatable="false">
+        <item>NEVER_DISPLAYED</item>
+        <item>WIFI_ONLY_PRELOAD</item>
+        <item>ALWAYS_PRELOAD</item>
+    </string-array>
+    <string-array name="app_themes" translatable="false">
+        <item>BlackTheme</item>
+        <item>BlueTheme</item>
+        <item>GreenTheme</item>
+        <item>RedTheme</item>
+        <item>OrangeTheme</item>
+        <item>PinkTheme</item>
+        <item>VioletTheme</item>
+    </string-array>
+
+    <string-array name="feed_languages" translatable="false">
+        <item>AF Afrikaans</item>
+        <item>AG Aghem</item>
+        <item>AK Akan</item>
+        <item>AM Amharic</item>
+        <item>AR Arabic</item>
+        <item>AS Assamese</item>
+        <item>AZ Azerbaijani</item>
+        <item>BA Basaa</item>
+        <item>BE Belarusian</item>
+        <item>BG Bulgarian</item>
+        <item>BM Bambara</item>
+        <item>BN Bengali</item>
+        <item>BO Tibetan</item>
+        <item>BR Breton</item>
+        <item>BS Bosnian</item>
+        <item>CA Catalan</item>
+        <item>CG Chiga</item>
+        <item>CH Cherokee</item>
+        <item>CS Czech</item>
+        <item>CY Welsh</item>
+        <item>DA Danish</item>
+        <item>DE German</item>
+        <item>DJ Zarma</item>
+        <item>DU Duala</item>
+        <item>DY Jola-Fonyi</item>
+        <item>DZ Dzongkha</item>
+        <item>EB Embu</item>
+        <item>EE Ewe</item>
+        <item>EL Greek</item>
+        <item>EN English</item>
+        <item>EO Esperanto</item>
+        <item>ES Spanish</item>
+        <item>ET Estonian</item>
+        <item>EU Basque</item>
+        <item>EW Ewondo</item>
+        <item>FA Persian</item>
+        <item>FF Fulah</item>
+        <item>FI Finnish</item>
+        <item>FO Faroese</item>
+        <item>FR French</item>
+        <item>GA Irish</item>
+        <item>GL Galician</item>
+        <item>GS Swiss German</item>
+        <item>GU Gujarati</item>
+        <item>GV Manx</item>
+        <item>HA Hausa</item>
+        <item>HI Hindi</item>
+        <item>HR Croatian</item>
+        <item>HU Hungarian</item>
+        <item>HY Armenian</item>
+        <item>IG Igbo</item>
+        <item>II Sichuan Yi</item>
+        <item>IN Indonesian</item>
+        <item>IS Icelandic</item>
+        <item>IT Italian</item>
+        <item>IW Hebrew</item>
+        <item>JA Japanese</item>
+        <item>JG Ngomba</item>
+        <item>JM Machame</item>
+        <item>KA Georgian</item>
+        <item>KD Makonde</item>
+        <item>KE Kabuverdianu</item>
+        <item>KH Koyra Chiini</item>
+        <item>KI Kikuyu</item>
+        <item>KK Kazakh</item>
+        <item>KL Kalaallisut</item>
+        <item>KM Khmer</item>
+        <item>KN Kannada</item>
+        <item>KO Korean</item>
+        <item>KS Kashmiri</item>
+        <item>KW Cornish</item>
+        <item>KY Kyrgyz</item>
+        <item>LA Langi</item>
+        <item>LG Ganda</item>
+        <item>LK Lakota</item>
+        <item>LN Lingala</item>
+        <item>LO Lao</item>
+        <item>LT Lithuanian</item>
+        <item>LU Luba-Katanga</item>
+        <item>LV Latvian</item>
+        <item>MA Masai</item>
+        <item>ME Meru</item>
+        <item>MF Morisyen</item>
+        <item>MG Malagasy</item>
+        <item>MK Macedonian</item>
+        <item>ML Malayalam</item>
+        <item>MN Mongolian</item>
+        <item>MR Marathi</item>
+        <item>MS Malay</item>
+        <item>MT Maltese</item>
+        <item>MU Mundang</item>
+        <item>MY Burmese</item>
+        <item>NA Nama</item>
+        <item>NB Norwegian Bokmål</item>
+        <item>ND North Ndebele</item>
+        <item>NE Nepali</item>
+        <item>NL Dutch</item>
+        <item>NM Kwasio</item>
+        <item>NN Norwegian Nynorsk</item>
+        <item>NU Nuer</item>
+        <item>NY Nyankole</item>
+        <item>OM Oromo</item>
+        <item>OR Oriya</item>
+        <item>PA Punjabi</item>
+        <item>PL Polish</item>
+        <item>PS Pashto</item>
+        <item>PT Portuguese</item>
+        <item>RM Romansh</item>
+        <item>RN Rundi</item>
+        <item>RO Romanian</item>
+        <item>RU Russian</item>
+        <item>RW Kinyarwanda</item>
+        <item>SA Samburu</item>
+        <item>SB Sangu</item>
+        <item>SE Sena</item>
+        <item>SG Sango</item>
+        <item>SH Tachelhit</item>
+        <item>SI Sinhala</item>
+        <item>SK Slovak</item>
+        <item>SL Slovenian</item>
+        <item>SN Shona</item>
+        <item>SO Somali</item>
+        <item>SQ Albanian</item>
+        <item>SR Serbian</item>
+        <item>SV Swedish</item>
+        <item>SW Swahili</item>
+        <item>TA Tamil</item>
+        <item>TE Telugu</item>
+        <item>TH Thai</item>
+        <item>TI Tigrinya</item>
+        <item>TO Tongan</item>
+        <item>TR Turkish</item>
+        <item>TW Tasawaq</item>
+        <item>TZ Central Atlas Tamazight</item>
+        <item>UG Uyghur</item>
+        <item>UK Ukrainian</item>
+        <item>UR Urdu</item>
+        <item>UZ Uzbek</item>
+        <item>VA Vai</item>
+        <item>VI Vietnamese</item>
+        <item>VU Vunjo</item>
+        <item>XO Soga</item>
+        <item>YA Yangben</item>
+        <item>YO Yoruba</item>
+        <item>ZG Standard Moroccan Tamazight</item>
+        <item>ZH Chinese</item>
+        <item>ZU Zulu</item>
+    </string-array>
+</resources>

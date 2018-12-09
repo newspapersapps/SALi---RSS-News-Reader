@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <color name="dark_background">#FF202020</color>
+
+   <color name="light_theme_color_unread">#000000</color>
+   <color name="light_theme_color_read">#9e9e9e</color>
+
+   <color name="dark_theme_color_unread">#ffffff</color>
+   <color name="dark_theme_color_read">#9e9e9e</color>
+
+
+ <color name="grey">#EEEEEE</color>
+
+    <color name="black">#000000</color>
+    <color name="black_light">#222222</color>
+    <color name="black_midd">#0d0d0d</color>
+
+    <color name="red">#800000</color>
+    <color name="red_dark">#590000</color>
+    <color name="red_midd">#680000</color>
+
+    <color name="blue">#0287cf</color>
+    <color name="blue_dark">#015e90</color>
+    <color name="blue_midd">#01527e</color>
+
+    <color name="green">#006400</color>
+    <color name="green_dark">#004600</color>
+    <color name="green_midd">#003300</color>
+
+    <color name="orange">#ff7f00</color>
+    <color name="orange_dark">#b25800</color>
+    <color name="orange_midd">#804000</color>
+
+    <color name="pink">#ee1289</color>
+    <color name="pink_dark">#a60c5f</color>
+    <color name="pink_midd">#770843</color>
+
+    <color name="violet">#9400D3</color>
+    <color name="violet_dark">#670093</color>
+    <color name="violet_midd">#590080</color>
+</resources>

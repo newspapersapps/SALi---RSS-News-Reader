@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="card_color" format="reference"/>
+    <attr name="colorReadState" format="color|reference" />
+    <attr name="darkColor" format="color|reference" />
+    <declare-styleable name="menu_item">
+        <attr name="menu_item" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="menu_group">
+        <attr name="menu_group" format="reference" />
+    </declare-styleable>
+</resources>
